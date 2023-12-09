@@ -39,23 +39,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-  <br/>
- <!--언어 및 툴 --> <br/>
+  <br/><br/>
 
- <br/>
- <br/>
-  
- <!--알고리즘 -->
- <a href="https://github.com/yoon828/Algorithm" > 
- 
- ## Problem Solving :muscle: 
- </a>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy901)](https://solved.ac/pjy901)
-
-<br/><br/><br/>
-
-## Activities
+## Activities :running:
 :sparkles: **HEPC Rookie League 최우수상 (2019)** :sparkles: 
 <br/>
 :sparkles: **Woori 코딩페스티벌 특별상 (2023)** :sparkles: 
@@ -75,3 +61,10 @@ SW중심대학 공동 AI 경진대회 (2023)
 문화데이터 활용 경진대회 - 제품·서비스 부문 (2023)
 <br/>
 공개SW 개발자대회 (2023)
+<br/><br/>
+
+ <!--알고리즘 -->
+ <a href="https://github.com/JJongmen/Algorithm" > 
+ 
+ ## Problem Solving :muscle: 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy901)](https://solved.ac/pjy901)

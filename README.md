@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <br/>
 :sparkles: **Woori 코딩페스티벌 특별상 (2023)** :sparkles: 
 <br/>
-:sparkles: **SW창업아이디어톤 최우수상 - 팀장 (2023))** :sparkles: 
+:sparkles: **SW창업아이디어톤 최우수상 - 팀장 (2023)** :sparkles: 
 <br/>
-:sparkles: **AI Edu 해커톤 본선 진출 (상위 50명 / 총 1561명) - 백엔드 엔지니어 (2023))** :sparkles: 
+:sparkles: **AI Edu 해커톤 본선 진출 (상위 50명 / 총 1561명) - 백엔드 엔지니어 (2023)** :sparkles: 
 <br/>
 LG Aimers 3기 (2023)
 <br/>
@@ -68,4 +68,7 @@ SW중심대학 공동 AI 경진대회 (2023)
  
  ## Problem Solving :muscle: 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjy901)](https://solved.ac/pjy901)
- 
+ <br/><br/>
+## Contract :mailbox:
+  <a href="mailto:pjy90123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pjy90123@gmail.com"/></a>
+  <a href="mailto:wkdl301@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:wkdl301@naver.com"/></a>
